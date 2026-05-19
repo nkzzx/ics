@@ -1,0 +1,7 @@
+https://github.com/nkzzx/ics.git
+
+nkzzx
+crwbe09@gmail.com
+
+git config --global user.name "nkzzx"
+git config --global user.email "crwbe09@gmail.com"
