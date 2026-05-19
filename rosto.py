@@ -40,3 +40,6 @@ def detectar_rostos():
 
 if __name__ == "__main__":
     detectar_rostos()
+
+
+    #boa noite ics luan
